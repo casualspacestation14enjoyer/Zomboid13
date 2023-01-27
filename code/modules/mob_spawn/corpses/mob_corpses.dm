@@ -2,6 +2,14 @@
 ///all the corpses meant as mob drops yes, these definitely could be sorted properly. i invite (you) to do it!!
 
 /obj/effect/mob_spawn/corpse/human/syndicatesoldier
+	name = "walker corpse"
+	hairstyle = "Bald"
+	facial_hairstyle = "Shaved"
+	outfit = /datum/outfit/naked
+
+//z12 og shit ends here
+
+/obj/effect/mob_spawn/corpse/human/syndicatesoldier
 	name = "Syndicate Operative"
 	hairstyle = "Bald"
 	facial_hairstyle = "Shaved"

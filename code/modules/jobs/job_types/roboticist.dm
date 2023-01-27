@@ -2,7 +2,7 @@
 	title = JOB_ROBOTICIST
 	description = "Build and repair the AI and cyborgs, create mechs."
 	department_head = list(JOB_RESEARCH_DIRECTOR)
-	faction = FACTION_STATION
+	faction = FACTION_NONE
 	total_positions = 2
 	spawn_positions = 2
 	supervisors = SUPERVISOR_RD

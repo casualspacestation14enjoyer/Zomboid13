@@ -2,7 +2,7 @@
 	title = JOB_SCIENTIST
 	description = "Do experiments, perform research, feed the slimes, make bombs."
 	department_head = list(JOB_RESEARCH_DIRECTOR)
-	faction = FACTION_STATION
+	faction = FACTION_NONE
 	total_positions = 5
 	spawn_positions = 3
 	supervisors = SUPERVISOR_RD

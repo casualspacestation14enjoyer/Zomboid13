@@ -4,7 +4,7 @@
 		collect empty crates, load and unload the supply shuttle, \
 		ship bounty cubes."
 	department_head = list(JOB_QUARTERMASTER)
-	faction = FACTION_STATION
+	faction = FACTION_NONE
 	total_positions = 3
 	spawn_positions = 2
 	supervisors = SUPERVISOR_QM

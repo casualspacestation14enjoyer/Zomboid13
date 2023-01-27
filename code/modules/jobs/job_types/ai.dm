@@ -2,7 +2,7 @@
 	title = JOB_AI
 	description = "Assist the crew, follow your laws, coordinate your cyborgs."
 	auto_deadmin_role_flags = DEADMIN_POSITION_SILICON
-	faction = FACTION_STATION
+	faction = FACTION_NEUTRAL
 	total_positions = 1
 	spawn_positions = 1
 	supervisors = "your laws"

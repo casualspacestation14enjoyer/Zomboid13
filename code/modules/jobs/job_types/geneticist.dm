@@ -2,7 +2,7 @@
 	title = JOB_GENETICIST
 	description = "Alter genomes, turn monkeys into humans (and vice-versa), and make DNA backups."
 	department_head = list(JOB_RESEARCH_DIRECTOR)
-	faction = FACTION_STATION
+	faction = FACTION_NONE
 	total_positions = 2
 	spawn_positions = 2
 	supervisors = SUPERVISOR_RD
