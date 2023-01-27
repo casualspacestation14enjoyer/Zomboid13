@@ -7916,7 +7916,6 @@
 /turf/open/floor/iron/cafeteria,
 /area/station/security/prison/mess)
 "cQY" = (
-/obj/structure/closet/secure_closet/freezer/meat,
 /obj/effect/turf_decal/weather/snow,
 /obj/machinery/camera/directional/north{
 	c_tag = "Civilian - Kitchen Freezer"
@@ -12856,14 +12855,6 @@
 	},
 /turf/open/floor/iron,
 /area/station/engineering/atmos)
-"eDV" = (
-/obj/structure/closet/secure_closet/freezer/cream_pie,
-/obj/effect/turf_decal/tile/red/opposingcorners,
-/obj/effect/turf_decal/tile/blue/opposingcorners{
-	dir = 1
-	},
-/turf/open/floor/iron,
-/area/station/service/theater)
 "eDW" = (
 /obj/effect/turf_decal/trimline/red/filled/line{
 	dir = 10
@@ -13661,11 +13652,6 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/iron/dark,
 /area/station/service/hydroponics)
-"eSN" = (
-/obj/structure/closet/secure_closet/freezer/kitchen,
-/obj/effect/turf_decal/bot_white,
-/turf/open/floor/iron/white,
-/area/station/service/kitchen)
 "eST" = (
 /obj/machinery/door/airlock/maintenance_hatch,
 /obj/effect/decal/cleanable/dirt,
@@ -17740,7 +17726,6 @@
 /turf/open/floor/iron/dark,
 /area/station/command/teleporter)
 "gvC" = (
-/obj/structure/closet/secure_closet/freezer/meat,
 /obj/effect/turf_decal/weather/snow,
 /turf/open/floor/iron/kitchen_coldroom,
 /area/station/service/kitchen/coldroom)
@@ -48215,7 +48200,6 @@
 /turf/open/floor/iron,
 /area/station/security/brig)
 "rpZ" = (
-/obj/structure/closet/secure_closet/freezer/fridge,
 /obj/effect/turf_decal/bot_white,
 /turf/open/floor/iron/white,
 /area/station/service/kitchen)
@@ -164438,7 +164422,7 @@ eSx
 uEB
 uzq
 omc
-eSN
+rpZ
 shV
 lNJ
 rvd
@@ -166754,7 +166738,7 @@ dhe
 dhe
 dhe
 dME
-eDV
+kli
 fHo
 tIT
 dME
@@ -167011,7 +166995,7 @@ dhe
 dhe
 dhe
 dME
-eDV
+kli
 iVE
 iZn
 dME

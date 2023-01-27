@@ -2,10 +2,10 @@
 	name = "walker"
 	desc = "A terrible beast, blood around it's mouth. It never stops to feast regardless of hunger."
 	icon = 'icons/mob/simple/simple_human.dmi'
-	icon_state = "syndicate"
-	icon_living = "syndicate"
-	icon_dead = "syndicate_dead"
-	icon_gib = "syndicate_gib"
+	icon_state = "zomb"
+	icon_living = "zomb"
+	icon_dead = "zomb_dead"
+	icon_gib = "zomb_gib"
 	mob_biotypes = MOB_ORGANIC|MOB_HUMANOID
 	sentience_type = SENTIENCE_HUMANOID
 	maxHealth = 60
